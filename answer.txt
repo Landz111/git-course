@@ -1,0 +1,7 @@
+- Email:
+git config --global user.email <"email">
+- Name:
+git config --global user.name <"name">
+
+Setup lại tên:
+git config --global user.name <"Udemy-Hapham">
